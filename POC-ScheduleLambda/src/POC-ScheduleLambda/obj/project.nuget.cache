@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Qp3vTMoeKIYpRfwlBAzy6Ve5hs4FvPj7aMLUrAHJeDep20lDBoAFu5zZI/CjR+48zRgpiNn2ihCJ6X8sq7+mw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects-Kamet\\POC-ScheduleLambda\\POC-ScheduleLambda\\src\\POC-ScheduleLambda\\POC-ScheduleLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UX508501\\.nuget\\packages\\amazon.lambda.cloudwatchevents\\4.0.1\\amazon.lambda.cloudwatchevents.4.0.1.nupkg.sha512",
+    "C:\\Users\\UX508501\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\UX508501\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\UX508501\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.13\\microsoft.netcore.app.crossgen2.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

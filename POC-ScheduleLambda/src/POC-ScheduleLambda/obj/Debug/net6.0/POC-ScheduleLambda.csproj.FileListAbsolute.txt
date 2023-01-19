@@ -1,0 +1,17 @@
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\bin\Debug\net6.0\POC-ScheduleLambda.deps.json
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\bin\Debug\net6.0\POC-ScheduleLambda.runtimeconfig.json
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\bin\Debug\net6.0\POC-ScheduleLambda.dll
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\bin\Debug\net6.0\POC-ScheduleLambda.pdb
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\POC-ScheduleLambda.csproj.AssemblyReference.cache
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\POC-ScheduleLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\POC-ScheduleLambda.AssemblyInfoInputs.cache
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\POC-ScheduleLambda.AssemblyInfo.cs
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\POC-ScheduleLambda.csproj.CoreCompileInputs.cache
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\POC-ScheduleLambda.csproj.CopyComplete
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\POC-ScheduleLambda.dll
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\refint\POC-ScheduleLambda.dll
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\POC-ScheduleLambda.pdb
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\POC-ScheduleLambda.genruntimeconfig.cache
+C:\Projects-Kamet\POC-ScheduleLambda\POC-ScheduleLambda\src\POC-ScheduleLambda\obj\Debug\net6.0\ref\POC-ScheduleLambda.dll
